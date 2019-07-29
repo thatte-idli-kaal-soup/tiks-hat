@@ -22,33 +22,6 @@ googleAnalytics = ""
     url = "/"
     weight = 1
 
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
-
-  [[menu.main]]
-    name = "About Us"
-    parent = "About"
-    url = "/about"
-    weight = 1
-
-  [[menu.main]]
-    name = "Resources"
-    url = "#"
-    weight = 3
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts"
-    parent = "Resources"
-    weight = 2
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact"
-    weight = 4
-
 # Paramaters for the whole site
 [params]
   title = "Ultimate Frisbee Hat"
