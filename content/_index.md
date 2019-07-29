@@ -10,8 +10,8 @@
 #Details for the box below the banner
 [services]
   title = "Venue"
-  text = "7 am to 10 am on Aug 15th, 2019 at [Rush Arena, Jayanagar](https://goo.gl/maps/Ji6Uo3bEh32Q1Dy27)."
-  map_location = "Rush Arena, Jayanagar"
+  text = "7 am to 10 am on Aug 15th, 2019 at [Sports Rush, Jayanagar](https://goo.gl/maps/Ji6Uo3bEh32Q1Dy27)."
+  map_location = "Sports Rush, Jayanagar"
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.
