@@ -3,13 +3,9 @@
   image = "img/banner.jpg"
 
   [[banner.button]]
-      url = "/contact"
-      text = "Get in touch"
+      url = "#cta"
+      text = "Register!"
       type = "primary"
-
-  [[banner.button]]
-      url = "#feature-icons"
-      text = "Find out more"
 
 #Details for the box below the banner
 [services]
@@ -69,6 +65,5 @@
     button_text="Join a group today!"
 
 [CTA]
-  heading = "Get in touch!"
-  message = "We'd love to hear from you."
+  heading = "Register!"
 +++
