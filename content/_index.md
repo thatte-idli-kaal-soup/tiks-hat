@@ -61,6 +61,16 @@
     title = "Come & throw, give Ultimate a go"
     url = "#cta"
 
+  [[feature_images.tile]]
+    image = "img/poster-3.jpg"
+    title = "Pivot into Ultimate"
+    url = "#cta"
+
+  [[feature_images.tile]]
+    image = "img/poster-4.jpg"
+    title = "Frisbee, Friends and Food"
+    url = "#cta"
+
 [CTA]
   heading = "Register!"
 +++
