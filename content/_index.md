@@ -7,6 +7,11 @@
       text = "Register!"
       type = "primary"
 
+  [[banner.button]]
+      url = "#feature-images"
+      text = "Learn more"
+      type = "secondary"
+
 #Details for the box below the banner
 [services]
   title = "Venue"
@@ -48,21 +53,17 @@
 
 [feature_images]
 #These feature images look best if there's an even number of them.
-  enable = false
+  enable = true
 
   [[feature_images.tile]]
-    image = "img/freely-10057.jpg"
-    title = "Childrens' Ministry"
-    text = "A church for the family."
-    url = "/kids"
-    button_text = "Learn more"
+    image = "img/poster-1.jpg"
+    title = "Catch the action; Do it yourself"
+    url = "#cta"
 
   [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
-    title = "Midweek Ministries"
-    text = "Want more during the week?"
-    url = "#"
-    button_text="Join a group today!"
+    image = "img/poster-2.jpg"
+    title = "Come & throw, give Ultimate a go"
+    url = "#cta"
 
 [CTA]
   heading = "Register!"
