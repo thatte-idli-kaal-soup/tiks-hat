@@ -8,7 +8,7 @@
       type = "primary"
 
   [[banner.button]]
-      url = "#feature-images"
+      url = "#feature-icons"
       text = "Learn more"
       type = "secondary"
 
@@ -20,36 +20,32 @@
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.
-  enable = false
+  enable = true
 
   #Accent is a colour defined in the CSS file. Choose between 1 and 5
   [[feature_icons.tile]]
     icon = "fa-hands-helping"
     icon_pack = "fas"
     accent = "1"
-    title = "Serve"
-    text = "Growing people who serve our community."
+    title = "Non-Contact Sport"
 
   [[feature_icons.tile]]
-    icon = "fa-church"
+    icon = "fa-smile-beam"
     icon_pack = "fas"
     accent = "2"
-    title = "Meet"
-    text = "Meeting together to hear."
+    title = "Mixed Gender Sport"
 
   [[feature_icons.tile]]
     icon = "fa-comments"
     icon_pack = "fas"
     accent = "5"
-    title = "Speak"
-    text = "Speaking encouragement to one-another."
+    title = "Meet New People"
 
   [[feature_icons.tile]]
     icon = "fa-heartbeat"
     icon_pack = "fas"
     accent = "3"
-    title = "Loved"
-    text = "Knowing Love. Being Loved."
+    title = "Exciting and Fast-paced"
 
 [feature_images]
 #These feature images look best if there's an even number of them.
